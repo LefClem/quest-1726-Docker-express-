@@ -1,0 +1,3 @@
+Commande pour lancer le projet:
+
+docker compose -f docker-compose.dev.yml up --build
